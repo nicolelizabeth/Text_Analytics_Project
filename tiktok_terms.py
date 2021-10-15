@@ -7,7 +7,7 @@ Created on Thu Oct 14 21:10:59 2021
 """
 
 # This code is currently set up to run for the pre covid time period
-# Need to change lines 51, 81 and 103 for post covid data sets
+# Need to change lines 52, 82 and 104 for post covid data sets
 
 import re
 import pandas as pd
